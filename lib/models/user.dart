@@ -6,12 +6,20 @@ class User {
   String email;
   String uid;
 
+<<<<<<< HEAD
   User({
     required this.name,
     required this.profilePhoto,
     required this.email,
     required this.uid,
   });
+=======
+  User(
+      {required this.name,
+      required this.email,
+      required this.uid,
+      required this.profilePhoto});
+>>>>>>> 86c6d9e (Update V.0.2)
 
   Map<String, dynamic> toJson() => {
         "name": name,

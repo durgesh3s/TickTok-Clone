@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Tiktok Clone</string>
+=======
+	<string>Tiktok Tutorial</string>
+>>>>>>> 86c6d9e (Update V.0.2)
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>tiktok_clone</string>
+=======
+	<string>tiktok_tutorial</string>
+>>>>>>> 86c6d9e (Update V.0.2)
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -41,9 +49,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+<<<<<<< HEAD
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
+=======
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+>>>>>>> 86c6d9e (Update V.0.2)
 	<true/>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Photo Library Needed</string>
@@ -51,5 +63,13 @@
 	<string>Camera Usage</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Microphone Usage</string>
+<<<<<<< HEAD
+=======
+	<key>NSAppTransportSecurity</key>
+	<dict>
+	<key>NSAllowsArbitraryLoads</key>
+	<true/>
+	</dict>
+>>>>>>> 86c6d9e (Update V.0.2)
 </dict>
 </plist>

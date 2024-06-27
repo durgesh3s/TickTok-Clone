@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "tiktok_clone",
     "short_name": "tiktok_clone",
+=======
+    "name": "tiktok_tutorial",
+    "short_name": "tiktok_tutorial",
+>>>>>>> 86c6d9e (Update V.0.2)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
